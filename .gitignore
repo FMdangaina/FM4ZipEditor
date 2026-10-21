@@ -1,0 +1,15 @@
+# build output
+*.exe
+*.zip
+*.pdb
+obj/
+bin/
+
+# Microsoft's XMem library: not redistributable, supply your own (see README)
+xcompress32.dll
+
+# scratch
+*.bak
+*.tmp
+*.ziptmp
+.vs/
